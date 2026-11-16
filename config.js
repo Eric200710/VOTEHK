@@ -6,6 +6,6 @@
 //    那把是資料庫的萬能鑰匙，貼進來、推上 GitHub，就等於把整個資料庫交出去。
 
 window.APP_CONFIG = {
-  SUPABASE_URL: "貼上 Project URL（https://一串字.supabase.co）",
-  SUPABASE_KEY: "貼上 publishable key（sb_publishable_ 開頭）"
+  SUPABASE_URL: "https://buenbntmnnsidcamhale.supabase.co",
+  SUPABASE_KEY: "sb_publishable_SilSnQXY6OLtmZD8djuBAQ_g1bxw4Xv"
 };
